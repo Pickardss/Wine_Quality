@@ -49,3 +49,5 @@ This project aims to provide a simple demonstration of building a neural network
 
 Author: Pickardss
 Date: 25/08/2023
+
+I got Help from chatGPT in this project
